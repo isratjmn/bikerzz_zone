@@ -1,0 +1,24 @@
+.bz-light-crimson {
+    background-color: crimson;
+    opacity: 50%;
+}
+.banner-title {
+    font-size: 40px;
+}
+.rating-icon {
+    width: 20px;
+}
+.btn-bz-success {
+    background-color: #E76F51;
+    color: white;
+}
+.btn-bz-success:hover {
+    color: #E76F51;
+    border: 2px solid #E76F51;
+}
+.text-bz-warning {
+    color: #E76F51;;
+}
+/* .w-25 {
+    width: 50% !important;
+} */
